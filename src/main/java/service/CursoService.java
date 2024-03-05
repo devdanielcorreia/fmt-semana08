@@ -29,4 +29,8 @@ public class CursoService {
         }
         return true;
     }
+
+    public List<Aluno> buscarCurso() {
+        return null;
+    }
 }

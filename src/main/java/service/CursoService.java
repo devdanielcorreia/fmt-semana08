@@ -33,4 +33,7 @@ public class CursoService {
     public List<Aluno> buscarCurso() {
         return null;
     }
+
+    public void matricularAluno(Integer cursoId, Integer alunoId) {
+    }
 }

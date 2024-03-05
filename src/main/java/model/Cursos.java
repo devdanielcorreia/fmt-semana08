@@ -14,7 +14,7 @@ public class Cursos {
 
     private static Integer id = 0;
     private static List<Cursos> cursos = new ArrayList<>();
-
+    private List<Aluno> alunosMatriculados;
     @Setter
     private String nome;
     @Setter
